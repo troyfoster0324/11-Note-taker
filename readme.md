@@ -3,7 +3,7 @@
 This project is an application called Note Taker that can be used to write and save notes. This application uses an Express.js back end and will save and retrieve note data from a JSON file. 
 This application will also be deployed to Heroku.
 
-[View deployed HEROKU app here!](https://peaceful-wildwood-17368.herokuapp.com/)
+[View deployed HEROKU app here!]()
 
   * [Installation](#install)
   * [Usage](#usage)
@@ -55,11 +55,3 @@ This will run the server where you can find the page on localhost:3001. To end y
 - Node.js
   - Express.js
   - Uniqid
-
-## Screen shots
-
-![Shot-1](images/get-started.png)
-![Shot-2](images/notes.png)
-
-### Credits
-Frontend starting files provided © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
